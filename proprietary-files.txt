@@ -210,3 +210,7 @@ system_ext/etc/permissions/privapp-permissions-google-se.xml
 -system_ext/framework/RadioConfigLib.jar
 -system_ext/framework/com.android.hotwordenrollment.common.util.jar
 -system_ext/priv-app/CarrierSetup/CarrierSetup.apk
+
+# Bluetooth (aptX) - from redfin-user 11 RQ2A.210405.005 7181113 release-keys
+system_ext/lib64/libaptX_encoder.so|df1c89d7af1bb35808d5fe3496b04ba066c10cbc
+system_ext/lib64/libaptXHD_encoder.so|e13fa70c97caaa24d061678bdee608eb8850a69e
